@@ -1,0 +1,19 @@
+{
+  "name": "ts-es-issue-3295",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "rollbar": "^2.21.1",
+    "vue": "^3.0.11"
+  }
+}
